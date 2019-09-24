@@ -1,4 +1,4 @@
 theme: jekyll-theme-cayman
-title: '<img src="img/logo.png" style="width: auto ;max-width: 100%"/>'
+title: '<img src="img/logo.svg" style="width: auto ;max-width: 100%"/>'
 description: Kotlin Multiplatform libraries for mobile (android & iOS) development
 google_analytics: UA-81805223-3
