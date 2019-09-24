@@ -3,7 +3,7 @@ title: MObile KOtlin
 ---
 Mobile Kotlin project aimed at simplifying and accelerating the development of native mobile applications for Android and iOS using Kotlin Multoplatform technology.
 
-## Project template ![coming soon](img/soon.svg)
+## Project template ![coming soon](assets/img/soon.svg)
 moko-template is mobile multiplatform project template with integrated moko libraries and sample of common use cases (input form, items list, item details). 
 
 ## Gradle plugins
@@ -20,35 +20,35 @@ moko-template is mobile multiplatform project template with integrated moko libr
 * [moko-resources](https://github.com/icerockdev/moko-resources) - Resources access;
 * [moko-media](https://github.com/icerockdev/moko-media) - Media selection & presenting.
 
-### Device ![coming soon](img/soon.svg)
+### Device ![coming soon](assets/img/soon.svg)
 * moko-filesystem - filesystem access;
 * moko-geo - geolocation tracking.
 
 ### Network
 * [moko-network](https://github.com/icerockdev/moko-network) - http network communications based on [ktor-client](https://github.com/ktorio/ktor).
 
-### Network ![coming soon](img/soon.svg)
+### Network ![coming soon](assets/img/soon.svg)
 * moko-socketio - websocket communcations.
 
 ### Logic
 * [moko-fields](https://github.com/icerockdev/moko-fields) - fields with validations for implementing forms.
 
-### Logic ![coming soon](img/soon.svg)
+### Logic ![coming soon](assets/img/soon.svg)
 * moko-paging - lists pagination with coroutines and LiveData integrations.
 
-### UI ![coming soon](img/soon.svg)
+### UI ![coming soon](assets/img/soon.svg)
 * moko-units - composing units into list and show in RecyclerView/UITableView/UICollectionView. Control your lists from common code;
 * moko-widgets - declarative UI components;
 * moko-stylable - styles system for units and widgets;
 * moko-graphics - graphics types like Color and others.
 
-### Integrations ![coming soon](img/soon.svg)
+### Integrations ![coming soon](assets/img/soon.svg)
 * moko-maps - control content of GoogleMapView from common code;
 * moko-firebase - interactions with firebase from common code.
 
 ### Utils
 * [moko-core](https://github.com/icerockdev/moko-core) - Core classes.
 
-### Utils ![coming soon](img/soon.svg)
+### Utils ![coming soon](assets/img/soon.svg)
 * moko-parcelize - @Parcelize support in common code;
 * moko-time - time actions and timers.

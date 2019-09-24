@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="130px" height="32px" viewBox="0 0 130 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="98px" height="24px" viewBox="0 0 130 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
     <title>Coming soon</title>
     <desc>Created with Sketch.</desc>
     <g id="Coming-soon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <rect id="Rectangle-Copy" fill="#684CDC" x="0" y="0" width="130" height="32" rx="2"></rect>
         <text id="COMING-SOON" font-family="SFProDisplay-Semibold, SF Pro Display" font-size="14" font-weight="500" fill="#FFFFFF">
-            <tspan x="16.0478516" y="21">COMING SOON</tspan>
+            <tspan x="12" y="22">COMING SOON</tspan>
         </text>
     </g>
 </svg>
