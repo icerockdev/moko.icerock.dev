@@ -1,3 +1,6 @@
+---
+title: '<img src="img/logo.png" style="width: auto ;max-width: 100%"/>'
+---
 * [mobile-multiplatform-gradle-plugin](https://github.com/icerockdev/mobile-multiplatform-gradle-plugin) - Gradle plugin for simplify Kotlin Multiplatform mobile configurations
 * [moko-core](https://github.com/icerockdev/moko-core) - Core classes for mobile (android & ios) Kotlin Multiplatform development
 * [moko-resources](https://github.com/icerockdev/moko-resources) - Resources access for mobile (android & ios) Kotlin Multiplatform development
