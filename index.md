@@ -3,8 +3,8 @@ title: MObile KOtlin
 ---
 Mobile Kotlin project aimed at simplifying and accelerating the development of native mobile applications for Android and iOS using Kotlin Multoplatform technology.
 
-## Project template ![coming soon](assets/img/soon.svg)
-moko-template is mobile multiplatform project template with integrated moko libraries and sample of common use cases (input form, items list, item details). 
+## Project template
+[moko-template](https://github.com/icerockdev/moko-template) is mobile multiplatform project template with integrated moko libraries and sample of common use cases (input form, items list, item details). 
 
 ## Gradle plugins
 * [mobile-multiplatform](https://github.com/icerockdev/mobile-multiplatform-gradle-plugin) - Gradle plugin for simplify Kotlin Multiplatform mobile configurations;
