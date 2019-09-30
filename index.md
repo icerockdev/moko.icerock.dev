@@ -52,3 +52,6 @@ Mobile Kotlin project aimed at simplifying and accelerating the development of n
 ### Utils ![coming soon](assets/img/soon.svg)
 * moko-parcelize - @Parcelize support in common code;
 * moko-time - time actions and timers.
+
+## Used in projects
+* https://github.com/Tetraquark/BluetoothChatMpp
