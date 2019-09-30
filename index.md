@@ -54,4 +54,4 @@ Mobile Kotlin project aimed at simplifying and accelerating the development of n
 * moko-time - time actions and timers.
 
 ## Used in projects
-* https://github.com/Tetraquark/BluetoothChatMpp
+* [BluetoothChatMpp](https://github.com/Tetraquark/BluetoothChatMpp)
