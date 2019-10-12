@@ -36,8 +36,10 @@ Mobile Kotlin project aimed at simplifying and accelerating the development of n
 ### Logic ![coming soon](assets/img/soon.svg)
 * moko-paging - lists pagination with coroutines and LiveData integrations.
 
+### UI
+* [moko-units](https://github.com/icerockdev/moko-units) - composing units into list and show in RecyclerView/UITableView/UICollectionView. Control your lists from common code.
+
 ### UI ![coming soon](assets/img/soon.svg)
-* moko-units - composing units into list and show in RecyclerView/UITableView/UICollectionView. Control your lists from common code;
 * moko-widgets - declarative UI components;
 * moko-stylable - styles system for units and widgets;
 * moko-graphics - graphics types like Color and others.
