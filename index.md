@@ -50,10 +50,7 @@ Mobile Kotlin project aimed at simplifying and accelerating the development of n
 
 ### Utils
 * [moko-parcelize](https://github.com/icerockdev/moko-parcelize) - @Parcelize support in common code;
-* [moko-core](https://github.com/icerockdev/moko-core) - Core classes.
-
-### Utils ![coming soon](assets/img/soon.svg)
-* moko-time - time actions and timers.
+* [moko-time](https://github.com/icerockdev/moko-time) - time actions and timers.
 
 ## Used in projects
 * Apatris Mobile Wallet - [AppStore](https://apps.apple.com/us/app/apatris-mobile-wallet/id1454765749);
