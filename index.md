@@ -49,10 +49,10 @@ Mobile Kotlin project aimed at simplifying and accelerating the development of n
 * moko-firebase - interactions with firebase from common code.
 
 ### Utils
+* [moko-parcelize](https://github.com/icerockdev/moko-parcelize) - @Parcelize support in common code;
 * [moko-core](https://github.com/icerockdev/moko-core) - Core classes.
 
 ### Utils ![coming soon](assets/img/soon.svg)
-* moko-parcelize - @Parcelize support in common code;
 * moko-time - time actions and timers.
 
 ## Used in projects
