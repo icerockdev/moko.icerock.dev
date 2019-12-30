@@ -18,11 +18,8 @@ Mobile Kotlin project aimed at simplifying and accelerating the development of n
 
 ### Device
 * [moko-resources](https://github.com/icerockdev/moko-resources) - Resources access;
-* [moko-media](https://github.com/icerockdev/moko-media) - Media selection & presenting.
-
-### Device ![coming soon](assets/img/soon.svg)
-* moko-filesystem - filesystem access;
-* moko-geo - geolocation tracking.
+* [moko-media](https://github.com/icerockdev/moko-media) - Media selection & presenting;
+* [moko-geo](https://github.com/icerockdev/moko-geo) - geolocation tracking.
 
 ### Network
 * [moko-network](https://github.com/icerockdev/moko-network) - http network communications based on [ktor-client](https://github.com/ktorio/ktor).
@@ -41,8 +38,10 @@ Mobile Kotlin project aimed at simplifying and accelerating the development of n
 * [moko-units](https://github.com/icerockdev/moko-units) - composing units into list and show in RecyclerView/UITableView/UICollectionView. Control your lists from common code;
 * [moko-graphics](https://github.com/icerockdev/moko-graphics) - graphics types like Color and others.
 
+### Integrations
+* [moko-maps](https://github.com/icerockdev/moko-maps) - control content of GoogleMapView from common code.
+
 ### Integrations ![coming soon](assets/img/soon.svg)
-* moko-maps - control content of GoogleMapView from common code;
 * moko-firebase - interactions with firebase from common code.
 
 ### Utils
@@ -54,4 +53,5 @@ Mobile Kotlin project aimed at simplifying and accelerating the development of n
 * BeGreat - [Play Market](https://play.google.com/store/apps/details?id=ru.begreatapp);
 * ENDO Legacy - [Play Market](https://play.google.com/store/apps/details?id=im.endo.legacy) & [AppStore](https://apps.apple.com/us/app/endo-legacy/id1435147480);
 * VEKA Measurer 2.0 - [Play Market](https://play.google.com/store/apps/details?id=com.veka.windowmeasurer.new) & [AppStore](https://apps.apple.com/ru/app/%D0%B7%D0%B0%D0%BC%D0%B5%D1%80%D1%89%D0%B8%D0%BA-%D0%BE%D0%BA%D0%BE%D0%BD-2-0/id1455318730);
+* KotlinConf Locator - [Play Market](https://play.google.com/store/apps/details?id=org.jetbrains.kotlin.locator), [AppStore](https://apps.apple.com/us/app/kotlinconf-locator/id1487944666), [GitHub](https://github.com/JetBrains/KotlinFinder);
 * BluetoothChatMpp - [GitHub](https://github.com/Tetraquark/BluetoothChatMpp).
