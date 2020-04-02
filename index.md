@@ -48,6 +48,7 @@ Mobile Kotlin project aimed at simplifying and accelerating the development of n
 * [moko-time](https://github.com/icerockdev/moko-time) - time actions and timers.
 
 ## Used in projects
+* PRIMETIME - [Play Market](https://play.google.com/store/apps/details?id=ru.primetime), [AppStore](https://apps.apple.com/us/app/primetime-delivery/id1471500882?l=ru&ls=1);
 * Apatris Mobile Wallet - [AppStore](https://apps.apple.com/us/app/apatris-mobile-wallet/id1454765749);
 * BeGreat - [Play Market](https://play.google.com/store/apps/details?id=ru.begreatapp);
 * ENDO Legacy - [Play Market](https://play.google.com/store/apps/details?id=im.endo.legacy) & [AppStore](https://apps.apple.com/us/app/endo-legacy/id1435147480);
