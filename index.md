@@ -23,10 +23,8 @@ Mobile Kotlin project aimed at simplifying and accelerating the development of n
 * [moko-geo](https://github.com/icerockdev/moko-geo) - geolocation tracking.
 
 ### Network
-* [moko-network](https://github.com/icerockdev/moko-network) - http network communications based on [ktor-client](https://github.com/ktorio/ktor).
-
-### Network ![coming soon](assets/img/soon.svg)
-* moko-socketio - websocket communications.
+* [moko-network](https://github.com/icerockdev/moko-network) - http network communications based on [ktor-client](https://github.com/ktorio/ktor);
+* [moko-socket-io](https://github.com/icerockdev/moko-socket-io) - socket.io communication in common code.
 
 ### Logic
 * [moko-fields](https://github.com/icerockdev/moko-fields) - fields with validations for implementing forms;
@@ -39,9 +37,6 @@ Mobile Kotlin project aimed at simplifying and accelerating the development of n
 
 ### Integrations
 * [moko-maps](https://github.com/icerockdev/moko-maps) - control content of GoogleMapView from common code.
-
-### Integrations ![coming soon](assets/img/soon.svg)
-* moko-firebase - interactions with firebase from common code.
 
 ### Utils
 * [moko-parcelize](https://github.com/icerockdev/moko-parcelize) - @Parcelize support in common code;
