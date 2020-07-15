@@ -15,7 +15,8 @@ Mobile Kotlin project aimed at simplifying and accelerating the development of n
 ## Libraries
 ### Architecture
 * [moko-mvvm](https://github.com/icerockdev/moko-mvvm) - Model-View-ViewModel architecture components;
-* [moko-permissions](https://github.com/icerockdev/moko-permissions) - Runtime permissions controls.
+* [moko-permissions](https://github.com/icerockdev/moko-permissions) - Runtime permissions controls;
+* [moko-errors](https://github.com/icerockdev/moko-errors) - simple errors handling.
 
 ### Device
 * [moko-resources](https://github.com/icerockdev/moko-resources) - Resources access;
