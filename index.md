@@ -44,7 +44,7 @@ Mobile Kotlin project aimed at simplifying and accelerating the development of n
 * [moko-time](https://github.com/icerockdev/moko-time) - time actions and timers.
 
 ## Used in projects
-* Alliance Trucks - [Play Market](https://play.google.com/store/apps/details?id=com.alliancetrucks.app), [AppStore](https://apps.apple.com/ru/app/alliancetrucks/id1500907708) ![moko-widgets](https://img.shields.io/badge/-moko--widgets-green);
+* ![moko-widgets](https://img.shields.io/badge/-moko--widgets-green) Alliance Trucks - [Play Market](https://play.google.com/store/apps/details?id=com.alliancetrucks.app), [AppStore](https://apps.apple.com/ru/app/alliancetrucks/id1500907708);
 * PRIMETIME - [Play Market](https://play.google.com/store/apps/details?id=ru.primetime), [AppStore](https://apps.apple.com/us/app/primetime-delivery/id1471500882?l=ru&ls=1);
 * Apatris Mobile Wallet - [AppStore](https://apps.apple.com/us/app/apatris-mobile-wallet/id1454765749);
 * BeGreat - [Play Market](https://play.google.com/store/apps/details?id=ru.begreatapp);
