@@ -1,0 +1,12 @@
+- library: moko-errors
+  version: 0.2.0
+  description: moko-errors improvements
+  status: done
+- library: moko-network
+  version: 0.7.0
+  description: moko-errors integration!
+  status: done
+- library: moko-crashlytics
+  version: 0.1.0
+  description: Crashlytics support with additions for Napier
+  status: todo
