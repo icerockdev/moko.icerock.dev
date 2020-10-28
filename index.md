@@ -51,4 +51,20 @@ Mobile Kotlin project aimed at simplifying and accelerating the development of n
 * ENDO Legacy - [Play Market](https://play.google.com/store/apps/details?id=im.endo.legacy) & [AppStore](https://apps.apple.com/us/app/endo-legacy/id1435147480);
 * VEKA Measurer 2.0 - [Play Market](https://play.google.com/store/apps/details?id=com.veka.windowmeasurer.new) & [AppStore](https://apps.apple.com/ru/app/%D0%B7%D0%B0%D0%BC%D0%B5%D1%80%D1%89%D0%B8%D0%BA-%D0%BE%D0%BA%D0%BE%D0%BD-2-0/id1455318730);
 * KotlinConf Locator - [Play Market](https://play.google.com/store/apps/details?id=org.jetbrains.kotlin.locator), [AppStore](https://apps.apple.com/us/app/kotlinconf-locator/id1487944666), [GitHub](https://github.com/JetBrains/KotlinFinder);
-* BluetoothChatMpp - [GitHub](https://github.com/Tetraquark/BluetoothChatMpp).
+* BluetoothChatMpp - [GitHub](https://github.com/Tetraquark/BluetoothChatMpp);
+* WordTeacher - [GitHub](https://github.com/soniccat/WordTeacher);
+* LikeAStarMpp - [GitHub](https://github.com/Jaime97/LikeAStarMpp);
+* compoza.lite2.moko - [GitHub](https://github.com/Diy2210/compoza.lite2.moko);
+* IDScanner - [GitHub](https://github.com/Diy2210/IDScanner);
+* Pl_io - [GitHub](https://github.com/alekseevvv/Pl_io);
+* VpnApp - [GitHub](https://github.com/Merseyside/VpnApp);
+* konet - [GitHub](https://github.com/eduayuso/konet);
+* TodoList - [GitHub](https://github.com/TinNova/TodoList);
+* open-banking-app - [GitHub](https://github.com/openMF/open-banking-app);
+* LiquidMultiplatform - [GitHub](https://github.com/tSquaredd/LiquidMultiplatform);
+* dukecon_mobile - [GitHub](https://github.com/dukecon/dukecon_mobile);
+* WeatherApp-Multiplatform - [GitHub](https://github.com/RandhirGupta/WeatherApp-Multiplatform);
+* EpisodeTracker - [GitHub](https://github.com/y-polek/EpisodeTracker);
+* gtcompanion - [GitHub](https://github.com/thumbcat-io/gtcompanion);
+* paris-respire-app - [GitHub](https://github.com/alan-camilo/paris-respire-app);
+* portfolio_android - [GitHub](https://github.com/MrTheGood/portfolio_android).
