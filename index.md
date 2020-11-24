@@ -45,11 +45,14 @@ Mobile Kotlin project aimed at simplifying and accelerating the development of n
 
 ## Used in projects
 * ![moko-widgets](https://img.shields.io/badge/-moko--widgets-green) Alliance Trucks - [Play Market](https://play.google.com/store/apps/details?id=com.alliancetrucks.app), [AppStore](https://apps.apple.com/ru/app/alliancetrucks/id1500907708);
+* ![moko-widgets](https://img.shields.io/badge/-moko--widgets-green) Virtual Vibe - [Play Market](https://play.google.com/store/apps/details?id=be.virtualvi);
+* Delivery Club - Picker App - [Play Market](https://play.google.com/store/apps/details?id=com.deliveryclub.stock);
+* НЕВОТОН - [Play Market](https://play.google.com/store/apps/details?id=com.nevoton.app), [AppStore](https://apps.apple.com/ru/app/%D0%BD%D0%B5%D0%B2%D0%BE%D1%82%D0%BE%D0%BD-%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0/id1409537985#?platform=iphone);
 * PRIMETIME - [Play Market](https://play.google.com/store/apps/details?id=ru.primetime), [AppStore](https://apps.apple.com/us/app/primetime-delivery/id1471500882?l=ru&ls=1);
 * Apatris Mobile Wallet - [AppStore](https://apps.apple.com/us/app/apatris-mobile-wallet/id1454765749);
 * BeGreat - [Play Market](https://play.google.com/store/apps/details?id=ru.begreatapp);
-* ENDO Legacy - [Play Market](https://play.google.com/store/apps/details?id=im.endo.legacy) & [AppStore](https://apps.apple.com/us/app/endo-legacy/id1435147480);
-* VEKA Measurer 2.0 - [Play Market](https://play.google.com/store/apps/details?id=com.veka.windowmeasurer.new) & [AppStore](https://apps.apple.com/ru/app/%D0%B7%D0%B0%D0%BC%D0%B5%D1%80%D1%89%D0%B8%D0%BA-%D0%BE%D0%BA%D0%BE%D0%BD-2-0/id1455318730);
+* ENDO Legacy - [Play Market](https://play.google.com/store/apps/details?id=im.endo.legacy), [AppStore](https://apps.apple.com/us/app/endo-legacy/id1435147480);
+* VEKA Measurer 2.0 - [Play Market](https://play.google.com/store/apps/details?id=com.veka.windowmeasurer.new), [AppStore](https://apps.apple.com/ru/app/%D0%B7%D0%B0%D0%BC%D0%B5%D1%80%D1%89%D0%B8%D0%BA-%D0%BE%D0%BA%D0%BE%D0%BD-2-0/id1455318730);
 * KotlinConf Locator - [Play Market](https://play.google.com/store/apps/details?id=org.jetbrains.kotlin.locator), [AppStore](https://apps.apple.com/us/app/kotlinconf-locator/id1487944666), [GitHub](https://github.com/JetBrains/KotlinFinder);
 * BluetoothChatMpp - [GitHub](https://github.com/Tetraquark/BluetoothChatMpp);
 * WordTeacher - [GitHub](https://github.com/soniccat/WordTeacher);
