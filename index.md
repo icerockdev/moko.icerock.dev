@@ -37,6 +37,7 @@ Mobile Kotlin project aimed at simplifying and accelerating the development of n
 * [moko-graphics](https://github.com/icerockdev/moko-graphics) - graphics types like Color and others.
 
 ### Integrations
+* [moko-crash-reporting](https://github.com/icerockdev/moko-crash-reporting) - integration with crash reporting systems like Firebase Crashlytics. Also contains integration with loggers like Napier;
 * [moko-maps](https://github.com/icerockdev/moko-maps) - control content of GoogleMapView from common code.
 
 ### Utils
