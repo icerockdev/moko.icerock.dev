@@ -41,7 +41,8 @@ Mobile Kotlin project aimed at simplifying and accelerating the development of n
 * [moko-maps](https://github.com/icerockdev/moko-maps) - control content of GoogleMapView from common code.
 
 ### Utils
-* [moko-parcelize](https://github.com/icerockdev/moko-parcelize) - @Parcelize support in common code.
+* [moko-parcelize](https://github.com/icerockdev/moko-parcelize) - @Parcelize support in common code;
+* [moko-test](https://github.com/icerockdev/moko-test) - utilities for unit tests.
 
 ## Used in projects
 * ![moko-widgets](https://img.shields.io/badge/-moko--widgets-green) Alliance Trucks - [Play Market](https://play.google.com/store/apps/details?id=com.alliancetrucks.app), [AppStore](https://apps.apple.com/ru/app/alliancetrucks/id1500907708);
