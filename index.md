@@ -21,7 +21,8 @@ Mobile Kotlin project aimed at simplifying and accelerating the development of n
 ### Device
 * [moko-resources](https://github.com/icerockdev/moko-resources) - Resources access;
 * [moko-media](https://github.com/icerockdev/moko-media) - Media selection & presenting;
-* [moko-geo](https://github.com/icerockdev/moko-geo) - geolocation tracking.
+* [moko-geo](https://github.com/icerockdev/moko-geo) - geolocation tracking;
+* [moko-biometry](https://github.com/icerockdev/moko-biometry) - Touch ID, Face ID from common code.
 
 ### Network
 * [moko-network](https://github.com/icerockdev/moko-network) - http network communications based on [ktor-client](https://github.com/ktorio/ktor);
