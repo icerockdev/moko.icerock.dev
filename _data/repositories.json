@@ -1,0 +1,127 @@
+[
+    {
+       "name":"Architecture",
+       "repositories":[
+          {
+             "repository":"moko-mvvm",
+             "description":"Model-View-ViewModel architecture components",
+             "mavenCentral":"mvvm"
+          },
+          {
+             "repository":"moko-permissions",
+             "description":"Runtime permissions controls",
+             "mavenCentral":"permissions"
+          },
+          {
+             "repository":"moko-errors",
+             "description":"simple errors handling",
+             "mavenCentral":"errors"
+          }
+       ]
+    },
+    {
+       "name":"Device",
+       "repositories":[
+          {
+             "repository":"moko-resources",
+             "description":"Resources access",
+             "mavenCentral":"resources"
+          },
+          {
+             "repository":"moko-media",
+             "description":"Media selection & presenting",
+             "mavenCentral":"media"
+          },
+          {
+             "repository":"moko-geo",
+             "description":"geolocation tracking",
+             "mavenCentral":"geo"
+          },
+          {
+             "repository":"moko-biometry",
+             "description":"Touch ID, Face ID from common code",
+             "mavenCentral":"biometry"
+          }
+       ]
+    },
+    {
+       "name":"Network",
+       "repositories":[
+          {
+             "repository":"moko-network",
+             "description":"http network communications based on [ktor-client](https://github.com/ktorio/ktor)",
+             "mavenCentral":"network"
+          },
+          {
+             "repository":"moko-socket-io",
+             "description":"socket.io communication in common code",
+             "mavenCentral":"socket-io"
+          }
+       ]
+    },
+    {
+       "name":"Logic",
+       "repositories":[
+          {
+             "repository":"moko-fields",
+             "description":"fields with validations for implementing forms",
+             "mavenCentral":"fields"
+          },
+          {
+             "repository":"moko-paging",
+             "description":"lists pagination with coroutines and LiveData integrations",
+             "mavenCentral":"paging"
+          }
+       ]
+    },
+    {
+       "name":"UI",
+       "repositories":[
+          {
+             "repository":"moko-widgets",
+             "description":"Multiplatform UI DSL to build Android and iOS apps from common code",
+             "mavenCentral":"widgets"
+          },
+          {
+             "repository":"moko-units",
+             "description":"composing units into list and show in RecyclerView/UITableView/UICollectionView. Control your lists from common code",
+             "mavenCentral":"units"
+          },
+          {
+             "repository":"moko-graphics",
+             "description":"graphics types like Color and others",
+             "mavenCentral":"graphics"
+          }
+       ]
+    },
+    {
+       "name":"Integrations",
+       "repositories":[
+          {
+             "repository":"moko-crash-reporting",
+             "description":"integration with crash reporting systems like Firebase Crashlytics. Also contains integration with loggers like Napier",
+             "mavenCentral":"crash-reporting"
+          },
+          {
+             "repository":"moko-maps",
+             "description":"control content of GoogleMapView from common code",
+             "mavenCentral":"maps"
+          }
+       ]
+    },
+    {
+       "name":"Utils",
+       "repositories":[
+          {
+             "repository":"moko-parcelize",
+             "description":"@Parcelize support in common code",
+             "mavenCentral":"parcelize"
+          },
+          {
+             "repository":"moko-test",
+             "description":"utilities for unit tests",
+             "mavenCentral":"test"
+          }
+       ]
+    }
+ ]

@@ -13,37 +13,14 @@ Mobile Kotlin project aimed at simplifying and accelerating the development of n
 * [mobile-multiplatform-network-generator](https://github.com/icerockdev/moko-network) - generation ktor-client network api and entities (with kotlinx.serialization) from OpenAPI (Swagger) specification.
 
 ## Libraries
-### Architecture
-* [moko-mvvm](https://github.com/icerockdev/moko-mvvm) - Model-View-ViewModel architecture components;
-* [moko-permissions](https://github.com/icerockdev/moko-permissions) - Runtime permissions controls;
-* [moko-errors](https://github.com/icerockdev/moko-errors) - simple errors handling.
+{% for group in site.data.repositories %}
+### {{ group.name }}
 
-### Device
-* [moko-resources](https://github.com/icerockdev/moko-resources) - Resources access;
-* [moko-media](https://github.com/icerockdev/moko-media) - Media selection & presenting;
-* [moko-geo](https://github.com/icerockdev/moko-geo) - geolocation tracking;
-* [moko-biometry](https://github.com/icerockdev/moko-biometry) - Touch ID, Face ID from common code.
+{% for repository in group.repositories %}
+* {% include moko-item data=repository %}
+{% endfor %}
 
-### Network
-* [moko-network](https://github.com/icerockdev/moko-network) - http network communications based on [ktor-client](https://github.com/ktorio/ktor);
-* [moko-socket-io](https://github.com/icerockdev/moko-socket-io) - socket.io communication in common code.
-
-### Logic
-* [moko-fields](https://github.com/icerockdev/moko-fields) - fields with validations for implementing forms;
-* [moko-paging](https://github.com/icerockdev/moko-paging) - lists pagination with coroutines and LiveData integrations.
-
-### UI
-* [moko-widgets](https://github.com/icerockdev/moko-widgets) - declarative UI to build Android and iOS apps from common code;
-* [moko-units](https://github.com/icerockdev/moko-units) - composing units into list and show in RecyclerView/UITableView/UICollectionView. Control your lists from common code;
-* [moko-graphics](https://github.com/icerockdev/moko-graphics) - graphics types like Color and others.
-
-### Integrations
-* [moko-crash-reporting](https://github.com/icerockdev/moko-crash-reporting) - integration with crash reporting systems like Firebase Crashlytics. Also contains integration with loggers like Napier;
-* [moko-maps](https://github.com/icerockdev/moko-maps) - control content of GoogleMapView from common code.
-
-### Utils
-* [moko-parcelize](https://github.com/icerockdev/moko-parcelize) - @Parcelize support in common code;
-* [moko-test](https://github.com/icerockdev/moko-test) - utilities for unit tests.
+{% endfor %}
 
 ## Used in projects
 * ![moko-widgets](https://img.shields.io/badge/-moko--widgets-green) Alliance Trucks - [Play Market](https://play.google.com/store/apps/details?id=com.alliancetrucks.app), [AppStore](https://apps.apple.com/ru/app/alliancetrucks/id1500907708);
