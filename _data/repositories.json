@@ -5,7 +5,7 @@
           {
              "repository":"moko-mvvm",
              "description":"Model-View-ViewModel architecture components",
-             "mavenCentral":"mvvm"
+             "mavenCentral":"mvvm-core"
           },
           {
              "repository":"moko-permissions",
@@ -100,7 +100,7 @@
           {
              "repository":"moko-crash-reporting",
              "description":"integration with crash reporting systems like Firebase Crashlytics. Also contains integration with loggers like Napier",
-             "mavenCentral":"crash-reporting"
+             "mavenCentral":"crash-reporting-core"
           },
           {
              "repository":"moko-maps",
