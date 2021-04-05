@@ -3,3 +3,4 @@
 <a href="https://github.com/icerockdev/{{ include.data.repository }}/watchers"><img alt="GitHub watchers" src="https://img.shields.io/github/watchers/icerockdev/{{ include.data.repository }}?style=social"></a>
 <a href="https://github.com/icerockdev/{{ include.data.repository }}/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/icerockdev/{{ include.data.repository }}"></a>
 <a href="https://repo1.maven.org/maven2/dev/icerock/moko/{{ include.data.mavenCentral }}"><img alt="Maven Central" src="https://img.shields.io/maven-central/v/dev.icerock.moko/{{ include.data.mavenCentral }}"></a>
+<img alt="Kotlin Version" src="https://kotlin-version.aws.icerock.dev/kotlin-version?group=dev.icerock.moko&name={{ include.data.mavenCentral }}">
