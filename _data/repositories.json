@@ -125,7 +125,7 @@
           {
              "repository":"moko-test",
              "description":"utilities for unit tests",
-             "mavenCentral":"test"
+             "mavenCentral":"test-core"
           },
           {
              "repository":"moko-utils",
