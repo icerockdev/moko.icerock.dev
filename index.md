@@ -38,6 +38,7 @@ Mobile Kotlin project aimed at simplifying and accelerating the development of n
 
 ## Used in projects (not by IceRock)
 * PokeRaid - [Play Market](https://play.google.com/store/apps/details?id=me.pokeraid), [AppStore](https://apps.apple.com/us/app/pokeraid-raid-from-home/id1507659524);
+* YouCan - [Play Market](https://play.google.com/store/apps/details?id=mksm.youcan), [AppStore](https://apps.apple.com/ru/app/%D0%BC%D0%B5%D0%B4%D0%B8%D1%82%D0%B0%D1%86%D0%B8%D1%8F-%D1%81%D0%BD%D0%B0-youcan/id1499982716);
 
 ## Used in experiments on GitHub
 * BluetoothChatMpp - [GitHub](https://github.com/Tetraquark/BluetoothChatMpp);
