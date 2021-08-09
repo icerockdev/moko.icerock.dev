@@ -1,0 +1,5 @@
+<a href="https://github.com/icerockdev/{{ include.data.repository }}">{{ include.data.pluginPortal }}</a> - {{ include.data.description }}<br>
+<a href="https://github.com/icerockdev/{{ include.data.repository }}/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/icerockdev/{{ include.data.repository }}?style=social"></a>
+<a href="https://github.com/icerockdev/{{ include.data.repository }}/watchers"><img alt="GitHub watchers" src="https://img.shields.io/github/watchers/icerockdev/{{ include.data.repository }}?style=social"></a>
+<a href="https://github.com/icerockdev/{{ include.data.repository }}/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/icerockdev/{{ include.data.repository }}"></a>
+<a href="https://plugins.gradle.org/plugin/{{ include.data.pluginPortal }}"><img alt="Maven Central" src="https://img.shields.io/gradle-plugin-portal/v/{{ include.data.pluginPortal }}"></a>

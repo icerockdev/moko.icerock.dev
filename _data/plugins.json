@@ -1,0 +1,12 @@
+[
+   {
+      "repository":"moko-kswift",
+      "description":"Swift-friendly api generator for Kotlin/Native frameworks",
+      "pluginPortal":"dev.icerock.moko.kswift"
+   },
+   {
+      "repository":"mobile-multiplatform-gradle-plugin",
+      "description":"Gradle plugin for simplify Kotlin Multiplatform mobile configurations",
+      "pluginPortal":"dev.icerock.mobile.multiplatform"
+   }
+ ]

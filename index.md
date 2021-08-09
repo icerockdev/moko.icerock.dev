@@ -4,13 +4,12 @@ title: MObile KOtlin
 Mobile Kotlin project aimed at simplifying and accelerating the development of native mobile applications for Android and iOS using Kotlin Multiplatform technology.
 
 ## Project template
-* [moko-template](https://github.com/icerockdev/moko-template) is mobile multiplatform project template with integrated MOKO libraries and sample of common use cases (input form, items list, item details);
-* [moko-widgets-template](https://github.com/icerockdev/moko-widgets-template) is mobile multiplatform project template with integrated MOKO libraries and multiplatform UI with MOKO widgets. 
+* [moko-template](https://github.com/icerockdev/moko-template) is mobile multiplatform project template with integrated MOKO libraries and sample of common use cases (input form, items list, item details).
 
 ## Gradle plugins
-* [mobile-multiplatform](https://github.com/icerockdev/mobile-multiplatform-gradle-plugin) - Gradle plugin for simplify Kotlin Multiplatform mobile configurations;
-* [mobile-multiplatform-resources](https://github.com/icerockdev/moko-resources) - generation resources for android and iOS from common resources - strings, plurals;
-* [mobile-multiplatform-network-generator](https://github.com/icerockdev/moko-network) - generation ktor-client network api and entities (with kotlinx.serialization) from OpenAPI (Swagger) specification.
+{% for plugin in site.data.plugins %}
+* {% include plugin-item data=plugin %}
+{% endfor %}
 
 ## Libraries
 {% for group in site.data.repositories %}

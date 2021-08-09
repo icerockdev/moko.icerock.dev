@@ -111,6 +111,16 @@
              "repository":"moko-tensorflow",
              "description":"Tensorflow Lite bindings for KMM",
              "mavenCentral":"tensorflow"
+          },
+          {
+             "repository":"moko-javascript",
+             "description":"JavaScript evaluation from kotlin common code",
+             "mavenCentral":"javascript"
+          },
+          {
+             "repository":"moko-web3",
+             "description":"Ethereum Web3 implementation",
+             "mavenCentral":"web3"
           }
        ]
     },
