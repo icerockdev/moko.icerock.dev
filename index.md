@@ -23,7 +23,7 @@ Mobile Kotlin project aimed at simplifying and accelerating the development of n
 
 ## Links
 - 🇺🇸 [Kotlin Multiplatform — MVVM & Clean Architecture](https://proandroiddev.com/kotlin-multiplatform-mvvm-clean-architecture-f20b99f90b95) (moko-mvvm);
-- 🇺🇸 [Kotlin Multiplatform —Firebase + MVVM](https://proandroiddev.com/kotlin-multiplatform-firebase-mvvm-4cdcddd98893) (moko-mvvm);
+- 🇺🇸 [Kotlin Multiplatform — Firebase + MVVM](https://proandroiddev.com/kotlin-multiplatform-firebase-mvvm-4cdcddd98893) (moko-mvvm);
 - 🇷🇺 [Kotlin Multiplatform — библиотека moko](https://tetraquark.ru/archives/511) (moko overview);
 - 🇺🇸 [Creating a simple Kotlin Multiplatform project based on moko-template](https://medium.com/icerock/creating-a-simple-kotlin-multiplatform-project-based-on-moko-template-2dd87d020bbd) (moko-template and libs);
 - 🇺🇸 [How to implement Swift-friendly API using Kotlin Multiplatform Mobile](https://icerockdev.com/blog/kotlin-multiplatform/2021-08-09-swift-friendly-API/) (moko-kswift);
