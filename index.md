@@ -21,6 +21,20 @@ Mobile Kotlin project aimed at simplifying and accelerating the development of n
 
 {% endfor %}
 
+## Links
+- 🇺🇸 [Kotlin Multiplatform — MVVM & Clean Architecture](https://proandroiddev.com/kotlin-multiplatform-mvvm-clean-architecture-f20b99f90b95) (moko-mvvm);
+- 🇺🇸 [Kotlin Multiplatform —Firebase + MVVM](https://proandroiddev.com/kotlin-multiplatform-firebase-mvvm-4cdcddd98893) (moko-mvvm);
+- 🇷🇺 [Kotlin Multiplatform — библиотека moko](https://tetraquark.ru/archives/511) (moko overview);
+- 🇺🇸 [Creating a simple Kotlin Multiplatform project based on moko-template](https://medium.com/icerock/creating-a-simple-kotlin-multiplatform-project-based-on-moko-template-2dd87d020bbd) (moko-template and libs);
+- 🇺🇸 [How to implement Swift-friendly API using Kotlin Multiplatform Mobile](https://icerockdev.com/blog/kotlin-multiplatform/2021-08-09-swift-friendly-API/) (moko-kswift);
+- 🇺🇸 [KotlinConf 2019 - Kotlin Multiplatform in action](https://www.youtube.com/watch?v=IKYsX6nBcsw) (moko-widgets);
+- 🇷🇺 [Kotlin/Everywhere Novosibirsk 2019 - LiveCoding: iOS и Android на Kotlin Multiplatform](https://www.youtube.com/watch?v=r07X_5ICDPk) (moko-widgets);
+- 🇷🇺 [Kotlin/Everywhere Minsk 2019 - Опыт работы с Kotlin Multiplatform. Взгляд со стороны iOS-программиста](https://www.youtube.com/watch?v=h9ioWnSlUJc) (moko overview);
+- 🇷🇺 [Kotlin/Everywhere Novosibirsk 2019 - Kotlin Multiplatform в production. Реальные примеры, польза и планы на будущее](https://www.youtube.com/watch?v=zzWa_trZvdg) (moko overview);
+- 🇷🇺 [Android Broadcast 2021 - MOKO framework for Kotlin Multiplatform Mobile](https://youtu.be/-JjQJG-xkRE) (moko overview);
+- 🇷🇺 [Kotlin Multiplatform Mobile. MOKO. MVVM #1](https://www.youtube.com/watch?v=qe8FcIQEmyA) (moko-mvvm);
+- 🇺🇸 [Sharing Resources on Kotlin Multiplatform with moko-resources](https://www.linkedin.com/pulse/sharing-resources-kotlin-multiplatform-moko-resources-isuru-rajapakse/) (moko-resources);
+
 ## Used in projects (by IceRock)
 * ![moko-widgets](https://img.shields.io/badge/-moko--widgets-green) Alliance Trucks - [Play Market](https://play.google.com/store/apps/details?id=com.alliancetrucks.app), [AppStore](https://apps.apple.com/ru/app/alliancetrucks/id1500907708);
 * ![moko-widgets](https://img.shields.io/badge/-moko--widgets-green) Virtual Vibe - [Play Market](https://play.google.com/store/apps/details?id=be.virtualvi);
