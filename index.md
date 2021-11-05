@@ -34,6 +34,7 @@ Mobile Kotlin project aimed at simplifying and accelerating the development of n
 - 🇷🇺 [Android Broadcast 2021 - MOKO framework for Kotlin Multiplatform Mobile](https://youtu.be/-JjQJG-xkRE) (moko overview);
 - 🇷🇺 [Kotlin Multiplatform Mobile. MOKO. MVVM #1](https://www.youtube.com/watch?v=qe8FcIQEmyA) (moko-mvvm);
 - 🇷🇺 [Kotlin Multiplatform Mobile. MOKO. units #1](https://www.youtube.com/watch?v=ES6lHIwp5Jw) (moko-units, moko-kswift);
+- 🇷🇺 [Kotlin Multiplatform Mobile. MOKO. units #2](https://www.youtube.com/watch?v=aT1i2vN6H6U) (moko-units, moko-utils);
 - 🇺🇸 [Sharing Resources on Kotlin Multiplatform with moko-resources](https://www.linkedin.com/pulse/sharing-resources-kotlin-multiplatform-moko-resources-isuru-rajapakse/) (moko-resources);
 
 ## Used in projects (by IceRock)
