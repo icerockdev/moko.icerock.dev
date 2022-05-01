@@ -36,6 +36,7 @@ Mobile Kotlin project aimed at simplifying and accelerating the development of n
 - 🇷🇺 [Kotlin Multiplatform Mobile. MOKO. units #1](https://www.youtube.com/watch?v=ES6lHIwp5Jw) (moko-units, moko-kswift);
 - 🇷🇺 [Kotlin Multiplatform Mobile. MOKO. units #2](https://www.youtube.com/watch?v=aT1i2vN6H6U) (moko-units, moko-utils);
 - 🇺🇸 [Sharing Resources on Kotlin Multiplatform with moko-resources](https://www.linkedin.com/pulse/sharing-resources-kotlin-multiplatform-moko-resources-isuru-rajapakse/) (moko-resources);
+- 🇺🇸 [How to use Kotlin Multiplatform ViewModel in SwiftUI and Jetpack Compose](https://medium.com/icerock/how-to-use-kotlin-multiplatform-viewmodel-in-swiftui-and-jetpack-compose-8158e98c091d) (moko-mvvm);
 
 ## Used in projects (by IceRock)
 * ![moko-widgets](https://img.shields.io/badge/-moko--widgets-green) Alliance Trucks - [Play Market](https://play.google.com/store/apps/details?id=com.alliancetrucks.app), [AppStore](https://apps.apple.com/ru/app/alliancetrucks/id1500907708);
