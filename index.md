@@ -42,8 +42,18 @@ Mobile Kotlin project aimed at simplifying and accelerating the development of n
 - 🇺🇸 [Kotlin Multiplatform Mobile — sharing the UI State management](https://proandroiddev.com/kotlin-multiplatform-mobile-sharing-the-ui-state-management-a67bd9a49882) (moko-mvvm);
 - 🇷🇺 [Kotlin Multiplatform Mobile — совместное управление состоянием пользовательского интерфейса](https://habr.com/ru/company/otus/blog/666164/) (moko-mvvm);
 - 🇺🇸 [My Kotlin Multiplatform Mobile learning curve](https://proandroiddev.com/my-kotlin-multiplatform-mobile-learning-curve-c024c9fcfe2) (moko-mvvm);
+- 🇺🇸 [Kotlin Multiplatform Mobile I18n for Android and iOS Apps](https://phrase.com/blog/posts/kotlin-multiplatform-mobile-i18n-android-ios/) (moko-resources);
+- 🇷🇺 [Как сделать удобное взаимодействие с Kotlin из Swift: решение с помощью плагина MOKO KSwift](https://habr.com/ru/post/700030/) (moko-kswift);
 
 ## Used in projects (by IceRock)
+* Campus - [Play Market](https://play.google.com/store/apps/details?id=ru.dewish.campus), [AppStore](https://apps.apple.com/ru/app/кампус-расписание-занятий/id1534975833);
+* ClockedIn - [Play Market](https://play.google.com/store/apps/details?id=com.clockedin), [AppStore](https://apps.apple.com/us/app/clocked-in/id1248437112);
+* Naked Science - [Play Market](https://play.google.com/store/apps/details?id=ru.ns.nakedscience.magazine), [AppStore](https://apps.apple.com/ru/app/naked-science/id604780121);
+* Мойка-Мойка - [Play Market](https://play.google.com/store/apps/details?id=pro.ucar.carwash);
+* Recipes - [Play Market](https://play.google.com/store/apps/details?id=ru.nikolife.app), [AppStore](https://apps.apple.com/us/app/nikolife-правильные-рецепты/id1605763336);
+* My Fridge - [Play Market](https://play.google.com/store/apps/details?id=com.whitesphere.app);
+* Krohne - [Play Market](https://play.google.com/store/apps/details?id=com.krohne.app), [AppStore](https://apps.apple.com/us/app/krohne/id1563728941);
+* QR Express - [Play Market](https://play.google.com/store/apps/details?id=com.icerockdev.cft.cashier), [AppStore](https://apps.apple.com/ru/app/уралсиб-qr-для-бизнеса/id1638286686);
 * ![moko-widgets](https://img.shields.io/badge/-moko--widgets-green) Alliance Trucks - [Play Market](https://play.google.com/store/apps/details?id=com.alliancetrucks.app), [AppStore](https://apps.apple.com/ru/app/alliancetrucks/id1500907708);
 * ![moko-widgets](https://img.shields.io/badge/-moko--widgets-green) Virtual Vibe - [Play Market](https://play.google.com/store/apps/details?id=be.virtualvi);
 * BMW Motorrad - [Play Market](https://play.google.com/store/apps/details?id=io.smartdriving.bmwmoto), [AppStore](https://apps.apple.com/us/app/id1492857555);
@@ -62,6 +72,7 @@ Mobile Kotlin project aimed at simplifying and accelerating the development of n
 * YouCan - [Play Market](https://play.google.com/store/apps/details?id=mksm.youcan), [AppStore](https://apps.apple.com/ru/app/%D0%BC%D0%B5%D0%B4%D0%B8%D1%82%D0%B0%D1%86%D0%B8%D1%8F-%D1%81%D0%BD%D0%B0-youcan/id1499982716);
 * BarnTalk - [Play Market](https://play.google.com/store/apps/details?id=com.barntalk), [AppStore](https://apps.apple.com/us/app/barntalk/id1520342639);
 * Currency Converter Calculator - [Play Market](https://play.google.com/store/apps/details?id=mustafaozhan.github.com.mycurrencies), [GitHub](https://github.com/CurrencyConverterCalculator/CCC);
+* AliRadar - [4PDA](https://4pda.to/forum/index.php?showtopic=1011971&st=20), [AppStore](https://apps.apple.com/ru/app/aliradar-для-aliexpress/id1188220508);
 
 ## Used in experiments on GitHub
 * BluetoothChatMpp - [GitHub](https://github.com/Tetraquark/BluetoothChatMpp);
@@ -90,4 +101,5 @@ Mobile Kotlin project aimed at simplifying and accelerating the development of n
 * CameraSample - [GitHub](https://github.com/Jaime97/CameraSample);
 * GithubKmp2 - [GitHub](https://github.com/EmanEraky/GithubKmp2);
 * zakupy - [GitHub](https://github.com/YokiToki/zakupy);
-* ArcsecondKmp - [GitHub](https://github.com/Tetraquark/ArcsecondKmp).
+* ArcsecondKmp - [GitHub](https://github.com/Tetraquark/ArcsecondKmp);
+* ToDometerKotlinMultiplatform - [GitHub](https://github.com/serbelga/ToDometerKotlinMultiplatform).
