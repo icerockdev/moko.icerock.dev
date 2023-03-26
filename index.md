@@ -45,6 +45,8 @@ Mobile Kotlin project aimed at simplifying and accelerating the development of n
 - 🇺🇸 [Kotlin Multiplatform Mobile I18n for Android and iOS Apps](https://phrase.com/blog/posts/kotlin-multiplatform-mobile-i18n-android-ios/) (moko-resources);
 - 🇷🇺 [Как сделать удобное взаимодействие с Kotlin из Swift: решение с помощью плагина MOKO KSwift](https://habr.com/ru/post/700030/) (moko-kswift);
 - 🇺🇸 [How To Build A Cross Platform Mobile App With Kotlin Multiplatform 1/2 — Shared Code](https://medium.com/tech-takeaways/how-to-build-a-cross-platform-mobile-app-with-kotlin-multiplatform-1-2-shared-code-9dbc6ff681ff) (moko-mvvm);
+- 🇺🇸 [We Fast-Tracked Our App Development With Kotlin Multiplatform Mobile](https://medium.com/motive-eng/we-fast-tracked-our-app-development-with-kotlin-multiplatform-mobile-952f2f4afd1) (moko-resources);
+- 🇺🇸 [MOKO resources 0.21 with Compose Multiplatform support](https://medium.com/p/462d8b11116b?source=moko-landing) (moko-resources);
 
 ## Used in projects (by IceRock)
 * Campus - [Play Market](https://play.google.com/store/apps/details?id=ru.dewish.campus), [AppStore](https://apps.apple.com/ru/app/кампус-расписание-занятий/id1534975833);
