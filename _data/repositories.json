@@ -5,17 +5,20 @@
           {
              "repository":"moko-mvvm",
              "description":"Model-View-ViewModel architecture components",
-             "mavenCentral":"mvvm-core"
+             "mavenCentral":"mvvm-core",
+             "composeMultiplatform": true
           },
           {
              "repository":"moko-permissions",
              "description":"Runtime permissions controls",
-             "mavenCentral":"permissions"
+             "mavenCentral":"permissions",
+             "composeMultiplatform": true
           },
           {
              "repository":"moko-errors",
              "description":"simple errors handling",
-             "mavenCentral":"errors"
+             "mavenCentral":"errors",
+             "composeMultiplatform": false
           }
        ]
     },
@@ -25,22 +28,26 @@
           {
              "repository":"moko-resources",
              "description":"Resources access",
-             "mavenCentral":"resources"
+             "mavenCentral":"resources",
+             "composeMultiplatform": true
           },
           {
              "repository":"moko-media",
              "description":"Media selection & presenting",
-             "mavenCentral":"media"
+             "mavenCentral":"media",
+             "composeMultiplatform": true
           },
           {
              "repository":"moko-geo",
              "description":"geolocation tracking",
-             "mavenCentral":"geo"
+             "mavenCentral":"geo",
+             "composeMultiplatform": true
           },
           {
              "repository":"moko-biometry",
              "description":"Touch ID, Face ID from common code",
-             "mavenCentral":"biometry"
+             "mavenCentral":"biometry",
+             "composeMultiplatform": true
           }
        ]
     },
@@ -50,12 +57,14 @@
           {
              "repository":"moko-network",
              "description":"http network communications based on [ktor-client](https://github.com/ktorio/ktor)",
-             "mavenCentral":"network"
+             "mavenCentral":"network",
+             "composeMultiplatform": false
           },
           {
              "repository":"moko-socket-io",
              "description":"socket.io communication in common code",
-             "mavenCentral":"socket-io"
+             "mavenCentral":"socket-io",
+             "composeMultiplatform": false
           }
        ]
     },
@@ -65,12 +74,14 @@
           {
              "repository":"moko-fields",
              "description":"fields with validations for implementing forms",
-             "mavenCentral":"fields"
+             "mavenCentral":"fields",
+             "composeMultiplatform": false
           },
           {
              "repository":"moko-paging",
              "description":"lists pagination with coroutines and LiveData integrations",
-             "mavenCentral":"paging"
+             "mavenCentral":"paging",
+             "composeMultiplatform": false
           }
        ]
     },
@@ -80,17 +91,20 @@
           {
              "repository":"moko-widgets",
              "description":"Multiplatform UI DSL to build Android and iOS apps from common code",
-             "mavenCentral":"widgets"
+             "mavenCentral":"widgets",
+             "composeMultiplatform": false
           },
           {
              "repository":"moko-units",
              "description":"composing units into list and show in RecyclerView/UITableView/UICollectionView. Control your lists from common code",
-             "mavenCentral":"units"
+             "mavenCentral":"units",
+             "composeMultiplatform": false
           },
           {
              "repository":"moko-graphics",
              "description":"graphics types like Color and others",
-             "mavenCentral":"graphics"
+             "mavenCentral":"graphics",
+             "composeMultiplatform": false
           }
        ]
     },
@@ -100,27 +114,32 @@
           {
              "repository":"moko-crash-reporting",
              "description":"integration with crash reporting systems like Firebase Crashlytics. Also contains integration with loggers like Napier",
-             "mavenCentral":"crash-reporting-core"
+             "mavenCentral":"crash-reporting-core",
+             "composeMultiplatform": false
           },
           {
              "repository":"moko-maps",
              "description":"control content of GoogleMapView from common code",
-             "mavenCentral":"maps"
+             "mavenCentral":"maps",
+             "composeMultiplatform": false
           },
           {
              "repository":"moko-tensorflow",
              "description":"Tensorflow Lite bindings for KMM",
-             "mavenCentral":"tensorflow"
+             "mavenCentral":"tensorflow",
+             "composeMultiplatform": false
           },
           {
              "repository":"moko-javascript",
              "description":"JavaScript evaluation from kotlin common code",
-             "mavenCentral":"javascript"
+             "mavenCentral":"javascript",
+             "composeMultiplatform": false
           },
           {
              "repository":"moko-web3",
              "description":"Ethereum Web3 implementation",
-             "mavenCentral":"web3"
+             "mavenCentral":"web3",
+             "composeMultiplatform": false
           }
        ]
     },
@@ -130,17 +149,20 @@
           {
              "repository":"moko-parcelize",
              "description":"@Parcelize support in common code",
-             "mavenCentral":"parcelize"
+             "mavenCentral":"parcelize",
+             "composeMultiplatform": false
           },
           {
              "repository":"moko-test",
              "description":"utilities for unit tests",
-             "mavenCentral":"test-core"
+             "mavenCentral":"test-core",
+             "composeMultiplatform": false
           },
           {
              "repository":"moko-utils",
              "description":"utilities for KMM",
-             "mavenCentral":"utils"
+             "mavenCentral":"utils",
+             "composeMultiplatform": false
           }
        ]
     }

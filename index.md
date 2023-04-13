@@ -3,6 +3,12 @@ title: MObile KOtlin
 ---
 Mobile Kotlin project aimed at simplifying and accelerating the development of native mobile applications for Android and iOS using Kotlin Multiplatform technology.
 
+## Compose Multiplatform
+
+MOKO libraries supports [Compose Multiplatform](https://github.com/JetBrains/compose-multiplatform) UI framework. Check badge ![Compose Multiplatform](http://img.shields.io/badge/compose-multiplatform-6EDB8D.svg?style=flat)
+
+![moko-repo-header](https://user-images.githubusercontent.com/5010169/231642086-8f243134-2c72-4edc-95bb-12979f512c14.png)
+
 ## Project template
 * [moko-template](https://github.com/icerockdev/moko-template) is mobile multiplatform project template with integrated MOKO libraries and sample of common use cases (input form, items list, item details).
 
@@ -48,6 +54,7 @@ Mobile Kotlin project aimed at simplifying and accelerating the development of n
 - 🇺🇸 [We Fast-Tracked Our App Development With Kotlin Multiplatform Mobile](https://medium.com/motive-eng/we-fast-tracked-our-app-development-with-kotlin-multiplatform-mobile-952f2f4afd1) (moko-resources);
 - 🇺🇸 [MOKO resources 0.21 with Compose Multiplatform support](https://medium.com/p/462d8b11116b?source=moko-landing) (moko-resources);
 - 🇺🇸 [Digging into KMM](https://medium.com/pink-room-club/digging-into-kmm-11be99607cdd) (moko-mvvm);
+- 🇺🇸 [Maximizing Mobile Code Reuse with Compose Multiplatform and MOKO Libraries](https://medium.com/icerock/maximizing-mobile-code-reuse-with-compose-multiplatform-and-moko-libraries-140a408b452a);
 
 ## Used in projects (by IceRock)
 * Campus - [Play Market](https://play.google.com/store/apps/details?id=ru.dewish.campus), [AppStore](https://apps.apple.com/ru/app/кампус-расписание-занятий/id1534975833);
