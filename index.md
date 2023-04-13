@@ -5,7 +5,9 @@ Mobile Kotlin project aimed at simplifying and accelerating the development of n
 
 ## Compose Multiplatform
 
-MOKO libraries supports [Compose Multiplatform](https://github.com/JetBrains/compose-multiplatform) UI framework. Check badge ![Compose Multiplatform](http://img.shields.io/badge/compose-multiplatform-6EDB8D.svg?style=flat)
+MOKO libraries supports [Compose Multiplatform](https://github.com/JetBrains/compose-multiplatform) UI framework. Check badge ![Compose Multiplatform](http://img.shields.io/badge/compose-multiplatform-6EDB8D.svg?style=flat).
+
+Libraries that not have badge also can be used in projects, that use Compose Multiplatform, but just have direct interop with Compose (because it's not UI libraries).
 
 ![moko-repo-header](https://user-images.githubusercontent.com/5010169/231642086-8f243134-2c72-4edc-95bb-12979f512c14.png)
 
