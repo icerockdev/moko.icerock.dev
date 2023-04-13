@@ -10,6 +10,8 @@ MOKO libraries supports [Compose Multiplatform](https://github.com/JetBrains/com
 ![moko-repo-header](https://user-images.githubusercontent.com/5010169/231642086-8f243134-2c72-4edc-95bb-12979f512c14.png)
 
 ## Project template
+* [moko-compose-multiplatform-ios-android-template](https://github.com/icerockdev/moko-compose-multiplatform-ios-android-template) is Compose Multiplatform template for Android & iOS with integrated MOKO libraries and sample of common use cases.
+* [moko-compose-multiplatform-template](https://github.com/icerockdev/moko-compose-multiplatform-template) is Compose Multiplatform template for Android, Desktop & iOS with integrated MOKO libraries and sample of common use cases.
 * [moko-template](https://github.com/icerockdev/moko-template) is mobile multiplatform project template with integrated MOKO libraries and sample of common use cases (input form, items list, item details).
 
 ## Gradle plugins
