@@ -74,7 +74,7 @@
           {
              "repository":"moko-fields",
              "description":"fields with validations for implementing forms",
-             "mavenCentral":"fields",
+             "mavenCentral":"fields-core",
              "composeMultiplatform": false
           },
           {
