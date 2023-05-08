@@ -89,6 +89,11 @@ Libraries that not have badge also can be used in projects, that use Compose Mul
 * Currency Converter Calculator - [Play Market](https://play.google.com/store/apps/details?id=mustafaozhan.github.com.mycurrencies), [GitHub](https://github.com/CurrencyConverterCalculator/CCC);
 * AliRadar - [4PDA](https://4pda.to/forum/index.php?showtopic=1011971&st=20), [AppStore](https://apps.apple.com/ru/app/aliradar-для-aliexpress/id1188220508);
 
+## Used in open source apps on GitHub
+* ToDometerKotlinMultiplatform - [GitHub](https://github.com/serbelga/ToDometerKotlinMultiplatform);
+* WeatherApp-Multiplatform - [GitHub](https://github.com/RandhirGupta/WeatherApp-Multiplatform);
+* EpisodeTracker - [GitHub](https://github.com/y-polek/EpisodeTracker);
+
 ## Used in experiments on GitHub
 * BluetoothChatMpp - [GitHub](https://github.com/Tetraquark/BluetoothChatMpp);
 * WordTeacher - [GitHub](https://github.com/soniccat/WordTeacher);
@@ -102,8 +107,6 @@ Libraries that not have badge also can be used in projects, that use Compose Mul
 * open-banking-app - [GitHub](https://github.com/openMF/open-banking-app);
 * LiquidMultiplatform - [GitHub](https://github.com/tSquaredd/LiquidMultiplatform);
 * dukecon_mobile - [GitHub](https://github.com/dukecon/dukecon_mobile);
-* WeatherApp-Multiplatform - [GitHub](https://github.com/RandhirGupta/WeatherApp-Multiplatform);
-* EpisodeTracker - [GitHub](https://github.com/y-polek/EpisodeTracker);
 * gtcompanion - [GitHub](https://github.com/thumbcat-io/gtcompanion);
 * paris-respire-app - [GitHub](https://github.com/alan-camilo/paris-respire-app);
 * portfolio_android - [GitHub](https://github.com/MrTheGood/portfolio_android);
@@ -116,5 +119,4 @@ Libraries that not have badge also can be used in projects, that use Compose Mul
 * CameraSample - [GitHub](https://github.com/Jaime97/CameraSample);
 * GithubKmp2 - [GitHub](https://github.com/EmanEraky/GithubKmp2);
 * zakupy - [GitHub](https://github.com/YokiToki/zakupy);
-* ArcsecondKmp - [GitHub](https://github.com/Tetraquark/ArcsecondKmp);
-* ToDometerKotlinMultiplatform - [GitHub](https://github.com/serbelga/ToDometerKotlinMultiplatform).
+* ArcsecondKmp - [GitHub](https://github.com/Tetraquark/ArcsecondKmp).
