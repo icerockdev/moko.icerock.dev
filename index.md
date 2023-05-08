@@ -59,6 +59,7 @@ Libraries that not have badge also can be used in projects, that use Compose Mul
 - 🇺🇸 [MOKO resources 0.21 with Compose Multiplatform support](https://medium.com/p/462d8b11116b?source=moko-landing) (moko-resources);
 - 🇺🇸 [Digging into KMM](https://medium.com/pink-room-club/digging-into-kmm-11be99607cdd) (moko-mvvm);
 - 🇺🇸 [Maximizing Mobile Code Reuse with Compose Multiplatform and MOKO Libraries](https://medium.com/icerock/maximizing-mobile-code-reuse-with-compose-multiplatform-and-moko-libraries-140a408b452a);
+- 🇺🇸 [From Android to Multiplatform: Real 100% Jetpack Compose App. Part 1 — Resources](https://markonovakovic.medium.com/from-android-to-multiplatform-real-100-jetpack-compose-app-part-1-resources-a5db60f1ed73) (moko-resources);
 
 ## Used in projects (by IceRock)
 * Campus - [Play Market](https://play.google.com/store/apps/details?id=ru.dewish.campus), [AppStore](https://apps.apple.com/ru/app/кампус-расписание-занятий/id1534975833);
