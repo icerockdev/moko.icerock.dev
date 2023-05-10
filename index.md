@@ -91,6 +91,7 @@ Libraries that not have badge also can be used in projects, that use Compose Mul
 * AliRadar - [4PDA](https://4pda.to/forum/index.php?showtopic=1011971&st=20), [AppStore](https://apps.apple.com/ru/app/aliradar-для-aliexpress/id1188220508);
 
 ## Used in open source apps on GitHub
+* tivi - [GitHub](https://github.com/chrisbanes/tivi);
 * ToDometerKotlinMultiplatform - [GitHub](https://github.com/serbelga/ToDometerKotlinMultiplatform);
 * WeatherApp-Multiplatform - [GitHub](https://github.com/RandhirGupta/WeatherApp-Multiplatform);
 * EpisodeTracker - [GitHub](https://github.com/y-polek/EpisodeTracker);
