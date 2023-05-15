@@ -97,6 +97,7 @@ Libraries that not have badge also can be used in projects, that use Compose Mul
 * EpisodeTracker - [GitHub](https://github.com/y-polek/EpisodeTracker);
 
 ## Used in experiments on GitHub
+* SpaceXRockets - [GitHub](https://github.com/AJIEKCX/SpaceXRockets);
 * BluetoothChatMpp - [GitHub](https://github.com/Tetraquark/BluetoothChatMpp);
 * WordTeacher - [GitHub](https://github.com/soniccat/WordTeacher);
 * LikeAStarMpp - [GitHub](https://github.com/Jaime97/LikeAStarMpp);
