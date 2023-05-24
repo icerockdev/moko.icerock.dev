@@ -95,6 +95,7 @@ Libraries that not have badge also can be used in projects, that use Compose Mul
 * ToDometerKotlinMultiplatform - [GitHub](https://github.com/serbelga/ToDometerKotlinMultiplatform);
 * WeatherApp-Multiplatform - [GitHub](https://github.com/RandhirGupta/WeatherApp-Multiplatform);
 * EpisodeTracker - [GitHub](https://github.com/y-polek/EpisodeTracker);
+* Reader [GitHub](https://github.com/msasikanth/reader);
 
 ## Used in experiments on GitHub
 * SpaceXRockets - [GitHub](https://github.com/AJIEKCX/SpaceXRockets);
