@@ -125,4 +125,5 @@ Libraries that not have badge also can be used in projects, that use Compose Mul
 * CameraSample - [GitHub](https://github.com/Jaime97/CameraSample);
 * GithubKmp2 - [GitHub](https://github.com/EmanEraky/GithubKmp2);
 * zakupy - [GitHub](https://github.com/YokiToki/zakupy);
-* ArcsecondKmp - [GitHub](https://github.com/Tetraquark/ArcsecondKmp).
+* ArcsecondKmp - [GitHub](https://github.com/Tetraquark/ArcsecondKmp);
+* GitHubUserFinderKMM - [GitHub](https://github.com/apter-tech/GitHubUserFinderKMM).
