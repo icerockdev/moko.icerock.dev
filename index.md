@@ -65,6 +65,7 @@ Libraries that not have badge also can be used in projects, that use Compose Mul
 ## Used in projects (by IceRock)
 * Campus - [Play Market](https://play.google.com/store/apps/details?id=ru.dewish.campus), [AppStore](https://apps.apple.com/ru/app/кампус-расписание-занятий/id1534975833);
 * ClockedIn - [Play Market](https://play.google.com/store/apps/details?id=com.clockedin), [AppStore](https://apps.apple.com/us/app/clocked-in/id1248437112);
+* Flipping Book - [Play Market](https://play.google.com/store/apps/details?id=com.flippingbook.online), [AppStore](https://apps.apple.com/ru/app/flippingbook/id1608881415);
 * Naked Science - [Play Market](https://play.google.com/store/apps/details?id=ru.ns.nakedscience.magazine), [AppStore](https://apps.apple.com/ru/app/naked-science/id604780121);
 * Мойка-Мойка - [Play Market](https://play.google.com/store/apps/details?id=pro.ucar.carwash);
 * Recipes - [Play Market](https://play.google.com/store/apps/details?id=ru.nikolife.app), [AppStore](https://apps.apple.com/us/app/nikolife-правильные-рецепты/id1605763336);
