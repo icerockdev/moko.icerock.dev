@@ -61,6 +61,7 @@ Libraries that not have badge also can be used in projects, that use Compose Mul
 - 🇺🇸 [Maximizing Mobile Code Reuse with Compose Multiplatform and MOKO Libraries](https://medium.com/icerock/maximizing-mobile-code-reuse-with-compose-multiplatform-and-moko-libraries-140a408b452a);
 - 🇺🇸 [From Android to Multiplatform: Real 100% Jetpack Compose App. Part 1 — Resources](https://markonovakovic.medium.com/from-android-to-multiplatform-real-100-jetpack-compose-app-part-1-resources-a5db60f1ed73) (moko-resources);
 - 🇺🇸 [YouTube - How to Share Resources in KMM (Strings, Images, etc.)](https://youtu.be/xtWzpLtCuY0) (moko-resources);
+- 🇺🇸 [Build an iOS & Android app in 100% Kotlin with Compose Multiplatform](https://www.youtube.com/watch?v=5_W5YKPShZ4) (moko-mvvm);
 
 ## Used in projects (by IceRock)
 * Campus - [Play Market](https://play.google.com/store/apps/details?id=ru.dewish.campus), [AppStore](https://apps.apple.com/ru/app/кампус-расписание-занятий/id1534975833);
@@ -102,6 +103,7 @@ Libraries that not have badge also can be used in projects, that use Compose Mul
 * Compose Multiplatform Weatcher App - [GitHub](https://github.com/guerrerorodrigo/compose-multiplatform-weather-app);
 
 ## Used in experiments on GitHub
+* MyBirdApp - [GitHub](https://github.com/SebastianAigner/my-bird-app);
 * SpaceXRockets - [GitHub](https://github.com/AJIEKCX/SpaceXRockets);
 * BluetoothChatMpp - [GitHub](https://github.com/Tetraquark/BluetoothChatMpp);
 * WordTeacher - [GitHub](https://github.com/soniccat/WordTeacher);
