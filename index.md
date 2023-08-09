@@ -101,6 +101,7 @@ Libraries that not have badge also can be used in projects, that use Compose Mul
 * Reader - [GitHub](https://github.com/msasikanth/reader);
 * QuotesApp - [GitHub](https://github.com/mirzemehdi/quotesapp);
 * Compose Multiplatform Weatcher App - [GitHub](https://github.com/guerrerorodrigo/compose-multiplatform-weather-app);
+* Rhasspy Mobile - [GitHub](https://github.com/Nailik/rhasspy_mobile);
 
 ## Used in experiments on GitHub
 * MyBirdApp - [GitHub](https://github.com/SebastianAigner/my-bird-app);
