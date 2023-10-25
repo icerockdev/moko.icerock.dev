@@ -103,6 +103,7 @@ Libraries that not have badge also can be used in projects, that use Compose Mul
 * QuotesApp - [GitHub](https://github.com/mirzemehdi/quotesapp);
 * Compose Multiplatform Weatcher App - [GitHub](https://github.com/guerrerorodrigo/compose-multiplatform-weather-app);
 * Rhasspy Mobile - [GitHub](https://github.com/Nailik/rhasspy_mobile);
+* open-otp - [GitHub](https://github.com/avan1235/open-otp);
 
 ## Used in experiments on GitHub
 * MyBirdApp - [GitHub](https://github.com/SebastianAigner/my-bird-app);
