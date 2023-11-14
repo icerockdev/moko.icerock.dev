@@ -63,6 +63,7 @@ Libraries that not have badge also can be used in projects, that use Compose Mul
 - 🇺🇸 [YouTube - How to Share Resources in KMM (Strings, Images, etc.)](https://youtu.be/xtWzpLtCuY0) (moko-resources);
 - 🇺🇸 [Build an iOS & Android app in 100% Kotlin with Compose Multiplatform](https://www.youtube.com/watch?v=5_W5YKPShZ4) (moko-mvvm);
 - 🇺🇸 [Compose Multiplatform iOS @android Android - Fetch Image Results with ViewModel](https://www.youtube.com/watch?v=HoUvMPtUiO8) (moko-mvvm);
+- 🇺🇸 [Getting Started with Kotlin Multiplatform[2/n]: Moko Shared View Model & Koin DI](https://proandroiddev.com/getting-started-with-kotlin-multiplatform-moko-shared-view-model-koin-di-37caf9d67deb) (moko-mvvm);
 
 ## Used in projects (by IceRock)
 * Campus - [Play Market](https://play.google.com/store/apps/details?id=ru.dewish.campus), [AppStore](https://apps.apple.com/ru/app/кампус-расписание-занятий/id1534975833);
@@ -104,6 +105,7 @@ Libraries that not have badge also can be used in projects, that use Compose Mul
 * Compose Multiplatform Weatcher App - [GitHub](https://github.com/guerrerorodrigo/compose-multiplatform-weather-app);
 * Rhasspy Mobile - [GitHub](https://github.com/Nailik/rhasspy_mobile);
 * open-otp - [GitHub](https://github.com/avan1235/open-otp);
+* recipies - [GitHub](https://github.com/JunydDEV/kmp-recipes-mobile-app);
 
 ## Used in experiments on GitHub
 * MyBirdApp - [GitHub](https://github.com/SebastianAigner/my-bird-app);
