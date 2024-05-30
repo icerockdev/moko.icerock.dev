@@ -106,6 +106,7 @@ Libraries that not have badge also can be used in projects, that use Compose Mul
 * Rhasspy Mobile - [GitHub](https://github.com/Nailik/rhasspy_mobile);
 * open-otp - [GitHub](https://github.com/avan1235/open-otp);
 * recipies - [GitHub](https://github.com/JunydDEV/kmp-recipes-mobile-app);
+* DroidKaigi conference app - [GitHub](https://github.com/DroidKaigi/conference-app-2022);
 
 ## Used in experiments on GitHub
 * MyBirdApp - [GitHub](https://github.com/SebastianAigner/my-bird-app);
