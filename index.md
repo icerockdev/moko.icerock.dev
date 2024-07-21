@@ -37,14 +37,6 @@ Libraries that not have badge also can be used in projects, that use Compose Mul
 - 🇷🇺 [Kotlin Multiplatform — библиотека moko](https://tetraquark.ru/archives/511) (moko overview);
 - 🇺🇸 [Creating a simple Kotlin Multiplatform project based on moko-template](https://medium.com/icerock/creating-a-simple-kotlin-multiplatform-project-based-on-moko-template-2dd87d020bbd) (moko-template and libs);
 - 🇺🇸 [How to implement Swift-friendly API using Kotlin Multiplatform Mobile](https://icerockdev.com/blog/kotlin-multiplatform/2021-08-09-swift-friendly-API/) (moko-kswift);
-- 🇺🇸 [KotlinConf 2019 - Kotlin Multiplatform in action](https://www.youtube.com/watch?v=IKYsX6nBcsw) (moko-widgets);
-- 🇷🇺 [Kotlin/Everywhere Novosibirsk 2019 - LiveCoding: iOS и Android на Kotlin Multiplatform](https://www.youtube.com/watch?v=r07X_5ICDPk) (moko-widgets);
-- 🇷🇺 [Kotlin/Everywhere Minsk 2019 - Опыт работы с Kotlin Multiplatform. Взгляд со стороны iOS-программиста](https://www.youtube.com/watch?v=h9ioWnSlUJc) (moko overview);
-- 🇷🇺 [Kotlin/Everywhere Novosibirsk 2019 - Kotlin Multiplatform в production. Реальные примеры, польза и планы на будущее](https://www.youtube.com/watch?v=zzWa_trZvdg) (moko overview);
-- 🇷🇺 [Android Broadcast 2021 - MOKO framework for Kotlin Multiplatform Mobile](https://youtu.be/-JjQJG-xkRE) (moko overview);
-- 🇷🇺 [Kotlin Multiplatform Mobile. MOKO. MVVM #1](https://www.youtube.com/watch?v=qe8FcIQEmyA) (moko-mvvm);
-- 🇷🇺 [Kotlin Multiplatform Mobile. MOKO. units #1](https://www.youtube.com/watch?v=ES6lHIwp5Jw) (moko-units, moko-kswift);
-- 🇷🇺 [Kotlin Multiplatform Mobile. MOKO. units #2](https://www.youtube.com/watch?v=aT1i2vN6H6U) (moko-units, moko-utils);
 - 🇺🇸 [Sharing Resources on Kotlin Multiplatform with moko-resources](https://www.linkedin.com/pulse/sharing-resources-kotlin-multiplatform-moko-resources-isuru-rajapakse/) (moko-resources);
 - 🇺🇸 [How to use Kotlin Multiplatform ViewModel in SwiftUI and Jetpack Compose](https://medium.com/icerock/how-to-use-kotlin-multiplatform-viewmodel-in-swiftui-and-jetpack-compose-8158e98c091d) (moko-mvvm);
 - 🇺🇸 [Exposing the separate resources module to iOS target using moko-resources in KMM](https://proandroiddev.com/exposing-the-separate-resources-module-to-ios-target-using-moko-resources-in-kmm-76b9c3d533) (moko-resources);
@@ -60,10 +52,21 @@ Libraries that not have badge also can be used in projects, that use Compose Mul
 - 🇺🇸 [Digging into KMM](https://medium.com/pink-room-club/digging-into-kmm-11be99607cdd) (moko-mvvm);
 - 🇺🇸 [Maximizing Mobile Code Reuse with Compose Multiplatform and MOKO Libraries](https://medium.com/icerock/maximizing-mobile-code-reuse-with-compose-multiplatform-and-moko-libraries-140a408b452a);
 - 🇺🇸 [From Android to Multiplatform: Real 100% Jetpack Compose App. Part 1 — Resources](https://markonovakovic.medium.com/from-android-to-multiplatform-real-100-jetpack-compose-app-part-1-resources-a5db60f1ed73) (moko-resources);
-- 🇺🇸 [YouTube - How to Share Resources in KMM (Strings, Images, etc.)](https://youtu.be/xtWzpLtCuY0) (moko-resources);
-- 🇺🇸 [YouTube - Build an iOS & Android app in 100% Kotlin with Compose Multiplatform](https://www.youtube.com/watch?v=5_W5YKPShZ4) (moko-mvvm);
-- 🇺🇸 [YouTube - Compose Multiplatform iOS @android Android - Fetch Image Results with ViewModel](https://www.youtube.com/watch?v=HoUvMPtUiO8) (moko-mvvm);
-- 🇺🇸 [Getting Started with Kotlin Multiplatform[2/n]: Moko Shared View Model & Koin DI](https://proandroiddev.com/getting-started-with-kotlin-multiplatform-moko-shared-view-model-koin-di-37caf9d67deb) (moko-mvvm);
+- 🇺🇸 [Getting Started with Kotlin Multiplatform 2/n: Moko Shared View Model & Koin DI](https://proandroiddev.com/getting-started-with-kotlin-multiplatform-moko-shared-view-model-koin-di-37caf9d67deb) (moko-mvvm);
+
+## Videos
+- 🇺🇸 [Kotlin by JetBrains - Build an iOS & Android app in 100% Kotlin with Compose Multiplatform](https://www.youtube.com/watch?v=5_W5YKPShZ4) (moko-mvvm);
+- 🇺🇸 [Philipp Lackner - How to Share Resources in KMM (Strings, Images, etc.)](https://youtu.be/xtWzpLtCuY0) (moko-resources);
+- 🇺🇸 [Philipp Lackner - Permission Handling in Compose Multiplatform - KMP for Beginners](https://youtu.be/euDQ4zdAfnk) (moko-permissions);
+- 🇺🇸 [Oday - Compose Multiplatform iOS @android Android - Fetch Image Results with ViewModel](https://www.youtube.com/watch?v=HoUvMPtUiO8) (moko-mvvm);
+- 🇺🇸 [KotlinConf 2019 - Kotlin Multiplatform in action](https://www.youtube.com/watch?v=IKYsX6nBcsw) (moko-widgets);
+- 🇷🇺 [Android Broadcast 2021 - MOKO framework for Kotlin Multiplatform Mobile](https://youtu.be/-JjQJG-xkRE) (moko overview);
+- 🇷🇺 [IceRock - Kotlin Multiplatform Mobile. MOKO. MVVM #1](https://www.youtube.com/watch?v=qe8FcIQEmyA) (moko-mvvm);
+- 🇷🇺 [IceRock - Kotlin Multiplatform Mobile. MOKO. units #1](https://www.youtube.com/watch?v=ES6lHIwp5Jw) (moko-units, moko-kswift);
+- 🇷🇺 [IceRock - Kotlin Multiplatform Mobile. MOKO. units #2](https://www.youtube.com/watch?v=aT1i2vN6H6U) (moko-units, moko-utils);
+- 🇷🇺 [Kotlin/Everywhere Novosibirsk 2019 - LiveCoding: iOS и Android на Kotlin Multiplatform](https://www.youtube.com/watch?v=r07X_5ICDPk) (moko-widgets);
+- 🇷🇺 [Kotlin/Everywhere Minsk 2019 - Опыт работы с Kotlin Multiplatform. Взгляд со стороны iOS-программиста](https://www.youtube.com/watch?v=h9ioWnSlUJc) (moko overview);
+- 🇷🇺 [Kotlin/Everywhere Novosibirsk 2019 - Kotlin Multiplatform в production. Реальные примеры, польза и планы на будущее](https://www.youtube.com/watch?v=zzWa_trZvdg) (moko overview);
 
 ## Used in projects (by IceRock)
 * Campus - [Play Market](https://play.google.com/store/apps/details?id=ru.dewish.campus), [AppStore](https://apps.apple.com/ru/app/кампус-расписание-занятий/id1534975833);
