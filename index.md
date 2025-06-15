@@ -54,6 +54,7 @@ Libraries that not have badge also can be used in projects, that use Compose Mul
 - 🇺🇸 [From Android to Multiplatform: Real 100% Jetpack Compose App. Part 1 — Resources](https://markonovakovic.medium.com/from-android-to-multiplatform-real-100-jetpack-compose-app-part-1-resources-a5db60f1ed73) (moko-resources);
 - 🇺🇸 [Getting Started with Kotlin Multiplatform 2/n: Moko Shared View Model & Koin DI](https://proandroiddev.com/getting-started-with-kotlin-multiplatform-moko-shared-view-model-koin-di-37caf9d67deb) (moko-mvvm);
 - 🇺🇸 [Migrating an Android app to iOS with KMP — Part III: UI and Compose Multiplatform](https://proandroiddev.com/migrating-an-android-app-to-ios-with-kmp-part-iii-ui-and-compose-multiplatform-b5e01cc0769a) (moko-resources, moko-mvvm);
+- 🇺🇸 [Internationalization (I18n) in Kotlin Multiplatform: Part 1](https://thomaskioko.me/posts/localization/) (moko-resources);
 
 ## Videos
 - 🇺🇸 [Kotlin by JetBrains - Build an iOS & Android app in 100% Kotlin with Compose Multiplatform](https://www.youtube.com/watch?v=5_W5YKPShZ4) (moko-mvvm);
